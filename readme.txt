@@ -1,4 +1,4 @@
-=== Discount Rules for WooCommerce ===
+﻿=== Discount Rules for WooCommerce Playzare ===
 Contributors: flycart
 Donate link: https://flycart.org/
 Tags: woocommerce, discounts, dynamic pricing, Buy One Get One Free, pricing deals, price rules, bulk discounts, advanced discounts, pricing deals
